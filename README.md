@@ -1,2 +1,4 @@
 # git-commands
-Git Workflow Commands
+
+`$ git branch -a`
+see all branches and where HEAD is.
